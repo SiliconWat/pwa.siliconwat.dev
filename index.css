@@ -12,10 +12,15 @@ body {
 	background-color: lightskyblue;
 }
 
-header, footer {
+section {
 	text-align: center;
 }
 
 img {
 	width: 100px;
+}
+
+figure {
+    font-size: 50pt;
+    margin: 0;
 }
