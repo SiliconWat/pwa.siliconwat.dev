@@ -24,3 +24,11 @@ figure {
     font-size: 50pt;
     margin: 0;
 }
+
+p {
+	margin-top: -20px;
+}
+
+a {
+	text-decoration: none;
+}
