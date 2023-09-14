@@ -16,9 +16,9 @@ class TlFooter extends HTMLElement {
             name: "Silicon Wat LLC",
             url: "https://siliconwat.dev"
         },
-        "nhiakou": {
-            name: "Nhia Kou Ltd",
-            url: "https://nhiakou.org"
+        "333": {
+            name: "333 Ltd",
+            url: "https://333.eco"
         },
         "thonly": {
             name: "THonly™",
