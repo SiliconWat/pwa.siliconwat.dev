@@ -6,7 +6,7 @@ template.innerHTML = `
         <li><a href="/">Thon Ly Trust</a></li>
         <li><a href="/siliconwat">Silicon Wat LLC</a></li>
         <li><a href="/333">333 Ltd</a></li>
-        <li><a href="/thonly">THonly™ LLC</a></li>
+        <li><a href="/thonly">THonly™ Inc</a></li>
         <li><a href="/heartbank">HeartBank® Nonprofit</a></li>
     </ul>
     <nav>
@@ -15,7 +15,7 @@ template.innerHTML = `
             <option value="/">Thon Ly Trust</option>
             <option value="/siliconwat/">Silicon Wat LLC</option>
             <option value="/333/">333 Ltd</option>
-            <option value="/thonly/">THonly™ LLC</option>
+            <option value="/thonly/">THonly™ Inc</option>
             <option value="/heartbank/">HeartBank® Nonprofit</option>
         </select>
     </nav>
